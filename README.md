@@ -1,8 +1,8 @@
 # Hola, soy Miguel Cortés
 
-Soy estudiante de Ingeniería de Sistemas en Bogotá, Colombia, actualmente orientando mi perfil hacia Linux, infraestructura, automatización y fundamentos DevOps.
+Soy estudiante de Ingeniería de Sistemas en Bogotá, Colombia, actualmente orientando mi perfil hacia Linux, infraestructura, ciberseguridad y fundamentos DevOps.
 
-Estoy construyendo un portafolio técnico basado en proyectos prácticos con Git, Linux, Bash, Python, Docker, CI/CD y despliegues reproducibles.
+Estoy construyendo un portafolio técnico basado en proyectos prácticos con Git, Linux, Bash, Python, Docker, y CI/CD.
 
 ## Enfoque actual
 
@@ -11,11 +11,11 @@ Estoy construyendo un portafolio técnico basado en proyectos prácticos con Git
 - Control de versiones con Git y GitHub.
 - Contenedores con Docker y Docker Compose.
 - Fundamentos de redes, bases de datos y despliegue de aplicaciones.
-- Construcción de proyectos documentados para portafolio DevOps junior.
+- Construcción de proyectos documentados.
 
 ## Tecnologías en formación
 
-- Linux / Debian / Ubuntu
+- Red Hat / Debian
 - Git / GitHub
 - Bash
 - Python
@@ -32,12 +32,7 @@ Busco oportunidades como practicante, trainee o perfil junior inicial en áreas 
 
 Actualmente estoy desarrollando proyectos prácticos para fortalecer mi portafolio:
 
-- Laboratorio de administración Linux.
-- API básica containerizada con Docker.
-- Pipeline CI básico con GitHub Actions.
-- Automatización de tareas con Bash o Python.
-
 ## Contacto
 
-- LinkedIn: [PENDIENTE]
-- Correo: [PENDIENTE]
+- LinkedIn: www.linkedin.com/in/miguel-ángel-cortés-273089409
+- Correo: cortesramosmiguelangel03@gmail.com

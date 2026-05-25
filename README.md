@@ -26,10 +26,6 @@ Soy estudiante de Ingeniería de Sistemas en Bogotá, Colombia, actualmente orie
 
 Busco oportunidades como practicante, trainee o perfil junior inicial en áreas como soporte TI, infraestructura, SysAdmin, Cloud básico o DevOps en formación.
 
-## Proyectos destacados
-
-Actualmente estoy desarrollando proyectos prácticos para fortalecer mi portafolio:
-
 ## Contacto
 
 - LinkedIn: www.linkedin.com/in/miguel-ángel-cortés-273089409

@@ -1,8 +1,6 @@
 # Hola, soy Miguel Cortés
 
-Soy estudiante de Ingeniería de Sistemas en Bogotá, Colombia, actualmente orientando mi perfil hacia Linux, infraestructura, ciberseguridad y fundamentos DevOps.
-
-Estoy construyendo un portafolio técnico basado en proyectos prácticos con Git, Linux, Bash, Python, Docker, y CI/CD.
+Soy estudiante de Ingeniería de Sistemas en Bogotá, Colombia, actualmente orientando mi perfil hacia Linux, infraestructura, ciberseguridad y fundamentos DevOps. Estoy construyendo un portafolio técnico basado en proyectos prácticos.
 
 ## Enfoque actual
 
